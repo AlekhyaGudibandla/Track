@@ -1,6 +1,6 @@
-# Autonomous-Car - Data Repository
+# Data for Autonomous-Car Repository
 
-Welcome to the **Autonomous-Car** data repository! This repository contains essential data files that are used for training and testing the machine learning models for an autonomous car project.
+This repository contains essential data files that are used for training and testing the machine learning models for the autonomous car project.
 
 ## Data Files
 
